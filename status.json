@@ -1,4 +1,12 @@
 {
   "globally_enabled": true,
-  "active_licenses": {}
+  "active_licenses": {
+    "ATH-9GP7-263V-JC8F": {
+      "name": "AthithanTest",
+      "machine_id": "2F24AFBD5F6E88C225D1",
+      "paid": true,
+      "added": "2026-07-22",
+      "expires": ""
+    }
+  }
 }
