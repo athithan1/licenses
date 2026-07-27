@@ -14,6 +14,13 @@
       "paid": true,
       "added": "2026-07-23",
       "expires": ""
+    },
+    "ATH-5HEY-CW8L-3FOJ": {
+      "name": "Buyer_05FF",
+      "machine_id": "05FF73627CAE2F2EA7D6",
+      "paid": true,
+      "added": "2026-07-27",
+      "expires": ""
     }
   }
 }
